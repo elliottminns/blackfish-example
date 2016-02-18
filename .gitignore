@@ -1,0 +1,8 @@
+Packages
+.build
+Public
+Resources
+.DS_Store
+Carthage/
+Xcode/Blackfish.xcodeproj/project.xcworkspace/xcuserdata/
+*.swp
