@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Blackfish</title>
+
+	<link rel="stylesheet" href="styles/app.css">
+</head>
+<body>
+	<div class="wrapper">
+		<h1 class="logo"> {{ Title }}</h1>
+    </div>
+</body>
