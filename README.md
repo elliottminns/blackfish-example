@@ -1,4 +1,8 @@
-# blackfish-example
+# Blackfish Example
+
+This is an example project for the [Blackfish](https://github.com/elliottminns/blackfish) web server.
+
+It is currently configured to run on Heroku and Docker
 
 ### Docker
 This example application is equipped with a Docker configuration file. It allows to run the application locally in an Ubuntu based Linux environment.
