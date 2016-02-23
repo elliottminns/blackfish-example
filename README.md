@@ -2,7 +2,12 @@
 
 This is an example project for the [Blackfish](https://github.com/elliottminns/blackfish) web server.
 
-It is currently configured to run on Heroku and Docker
+It is currently configured to run on Heroku and Docker.
+
+### Heroku
+This example can be deployed to Heroku without the button below, if wanted please refer to [here](https://github.com/elliottminns/blackfish#heroku) to do so.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Docker
 This example application is equipped with a Docker configuration file. It allows to run the application locally in an Ubuntu based Linux environment.
