@@ -1,0 +1,14 @@
+{
+    "name": "blackfish-example",
+    "description": "Example project for Blackfish",
+    "repository": "https://github.com/elliottminns/blackfish-example",
+    "keywords": [
+        "blackfish",
+        "example"
+    ],
+    "buildpacks": [
+        {
+            "url": "https://github.com/kylef/heroku-buildpack-swift"
+        }
+    ]
+}
