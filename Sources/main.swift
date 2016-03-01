@@ -1,8 +1,9 @@
 import Blackfish
 import BlackfishStencil
 
-let app = Blackfish()
+let app = BlackfishApp()
 
+app.use(middleware: Logger())
 app.use(renderer: StencilRenderer(), ext: ".stencil")
 app.use(path: "/", controller: IndexController())
 
