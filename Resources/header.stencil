@@ -8,5 +8,8 @@
 <body>
 	<div class="wrapper">
 		<h1 class="logo"> {{ Title }}</h1>
+        {% for name in names %}
+        - {{ name.first }} : {{ name.last }}
+        {% endfor %}
     </div>
 </body>
